@@ -1,0 +1,79 @@
+/* .xin_chao:hover {
+  color: red;
+  font-size: 25px;
+} */
+/* p:hover{
+    color:blue;
+    font-size: 30px;
+} */
+/* .ok {
+  color: black;
+  width: 50px;
+  background-color: yellow;
+  border: 1px solid firebrick;
+  border-radius: 10px;
+  font-weight: bold;
+  cursor: pointer;
+}
+.ok:hover{
+    background-color: rgb(234, 37, 37);
+    color: white;
+} */
+
+/* .xin_chao:active{
+    color:blue;
+    font-size: 30px;
+ } */
+/* a:link {
+  color: red;
+  font-size: 30px; */
+/* }
+.click_me:visited {
+  color: green;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 20px;
+} */
+
+/* .div_elm:empty{
+  background-color: blue;
+  width: 20px;
+  height: 20px;
+  border: 2px solid black;
+}
+.div_elm{
+  background-color: yellow;;
+} */
+ /* h2:target{
+  color: blue;
+ } */
+
+p:hover{
+  Color: blue;
+  font-size: 30px;
+}
+#ok:hover{
+color: green;
+font-size: 25px;
+}
+a:active{
+  color:chocolate;
+  font-size: 30px;
+}
+a:link{
+  color:blueviolet;
+  font-size: 30px;
+}
+a:visit{
+  color:chartreuse;
+  font-size: 10px;
+}
+.he:empty{
+  background-color: black;
+  width: 200px;
+  height: 200px;
+  border: 1px;
+}
+.no{
+  color:darkblue;
+  background-color: aqua;
+}

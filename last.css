@@ -1,0 +1,9 @@
+/* Chọn các thẻ có class="top", trừ thẻ p */
+.top:not(p){
+    background-color: yellowgreen;
+}
+/* Hoàn toàn có thể sử dụng peseudo class */
+/* có not nên loại thẻ p đầu tiên */
+.top:not(:first-of-type){
+    background-color:blueviolet;
+} 

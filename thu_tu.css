@@ -1,0 +1,21 @@
+/* yếu nhất */
+*{
+    color: red;
+}
+/* yếu */
+h1{
+    color:blue;
+}
+/* vừa */
+.demo{
+    color: green;
+}
+/* hơi mạnh */
+#the{
+    color:aquamarine;
+}
+/* mạnh là nằm trong thẻ mở luôn */
+/* mạnh nhất "!important"*/
+*{
+    color:chartreuse !important;
+}
